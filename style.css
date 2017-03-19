@@ -1,3 +1,9 @@
+body
+{
+	background-color: #f4e6d4;
+	font-family: verdana,arial, helvetica, sans-serif;
+}
+
 h1
 {
 	text-align: center;
@@ -5,7 +11,6 @@ h1
 
 h1,h2
 {
-  font-family: 'verdana';
 	color: #B02D2D;
 }
 
